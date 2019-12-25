@@ -1,0 +1,4 @@
+Sunny,Warm,Normal,strong,Warm,Same,TRUE
+Sunny,Warm,High,strong,Warm,Same,TRUE
+Rain,Cool,High,strong,Warm,Same,FALSE
+Sunny,Warm,High,strong,cool,Same,TRUE
